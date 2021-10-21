@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, My name is Haniff 👋
 
 - 🔭 I’m currently working on BRIN (Badan Riset dan Inovasi Nasional) as student intern in Automation Department
 - 🌱 I’m currently learning  Microcontroller programing language like C, C++, Python, and basics of VB.NET
