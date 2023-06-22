@@ -1,6 +1,6 @@
 ### Hi there, My name is Haniff 👋
 
-- 🔭 I’m putting my curiousity in robotics, mechatronics, and IoT
+- 🔭 I’m putting my curiousity in AI,robotics, mechatronics, and IoT
 - 🌱 I’m currently learning  Microcontroller programing language like C, C++, Python, and basics of VB.NET
 - 📈 I’m looking to Join a Journey as a data scientist
 - 💬 Ask me about anything
