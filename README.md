@@ -2,7 +2,7 @@
 
 - 🔭 I’m putting my curiousity in AI, Machine Learning, and Data Driven Technologies such as Data Science, Analyst, and Engineer
 - 🌱 I’ve experienced in Microcontroller programing language (C & C++), Python, SQL, and basics of VB.Net, also have hands-on experience in robotics, mechatronics, and IoT
-- 📈 I’m looking to Join a Journey as a data scientist
+- 📈 I’m looking to Join a Journey as a data professional's (Data Scientist, Analyst, Engineer)
 - 💬 Ask me about anything
 - 📫 How to reach me: 
 
