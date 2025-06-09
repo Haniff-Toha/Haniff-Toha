@@ -42,6 +42,11 @@
 | [Flip (Indonesian Payment & E-Money App) Sentiment Analysis](https://github.com/Haniff-Toha/DataScience_Portofolio/tree/main/Flip%20(Indonesian%20Payment%20%26%20E-Money%20App)%20Sentiment%20Analysis) | Implemented sentiment analysis on Flip's application review |
 | [Garbage Classification Web-App](https://github.com/Haniff-Toha/DataScience_Portofolio/tree/main/Garbage%20Classification%20Web-App) | Develop garbage classification model and implemented it using Tensorflow.js |
 
+<p align="center"> 
+<img src="helloworld.svg"> </img>
+  <img src="https://profile-counter.glitch.me/Haniff-Toha/count.svg" />
+</p>
+
 # Github Stats
 
 <p align="left">
