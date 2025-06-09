@@ -44,6 +44,9 @@
 
 <p align="center"> 
 <img src="helloworld.svg"> </img>
+</p>
+<p align="center"> 
+Visitor count<br>
   <img src="https://profile-counter.glitch.me/Haniff-Toha/count.svg" />
 </p>
 
