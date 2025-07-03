@@ -33,7 +33,8 @@
 | Projects | Description |
 | ----------- | ----------- |
 | [EShoppay - E-Commerce Business Application Springrest ](https://github.com/Haniff-Toha/challenge_codeID_MH) | Back-end Engineer Bootcamp Project for E-Commerce and HR-Payroll business application |
-| [Heart Disease Prediction - MLOps](https://github.com/Haniff-Toha/DataScience_Portofolio/tree/main/Heart%20Disease%20Prediction%20-%20MLOps) | Develop Machine Learning Pipelines and Web app to predict heart disease based on patient records |
+| [Brain MRI Alzheimer Classification ](https://github.com/Haniff-Toha/DataScience_Portofolio/tree/main/Alzheimer_Disease_Brain_MRI_Image_Classification) | Develop Machine Learning Pipelines and Web app to predict Alzheimer disease based on Brain MRI Imgaes |
+| [Heart Disease Prediction - MLOps](https://github.com/Haniff-Toha/DataScience_Portofolio/tree/main/Heart%20Disease%20Prediction%20-%20MLOps) | Develop Machine Learning Pipelines to predict heart disease based on patient records |
 | [Movie Review's Sentiment Analysis - MLOps](https://github.com/Haniff-Toha/MLOps-Submission1) | Develop Machine Learning Pipelines for sentiment analysis on movie reviews |
 | [Predicting Employee Attrition Using ML](https://github.com/Haniff-Toha/DataScience_Portofolio/tree/main/HR%20Employee%20Attrition%20Analysis%20and%20Prediction) | Provide end-to-end Data Science approach for predicting employee attrition |
 | [Loan Risk Profiling Based on Customer Behaviors](https://github.com/Haniff-Toha/DataScience_Portofolio/tree/main/Loan%20Risk%20Profiling%20Based%20on%20Customer%20Behaviors) | Analyzing cutomer behavior for loan risk profiling credit customer & predicting default/ non default customer using XGBoost |
