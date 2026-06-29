@@ -1,7 +1,7 @@
 ### Hi there, My name is Haniff 👋
 
 - 🔭 I’m putting my curiousity in AI, Machine Learning, and Data Driven Technologies such as Data Science, Analyst, and Engineer
-- 🌱 I’ve experienced in Python, SQL, Microcontroller programing language (C & C++), and basics of VB.Net, also have hands-on experience in robotics, mechatronics, and IoT
+- 🌱 I’ve experienced in Python, SQL, Microcontroller programing language (C & C++), JS, TypeScripts and basics of VB.Net, also have hands-on experience in robotics, mechatronics, and IoT
 - 📈 I’m looking to Join a Journey as a data professional's (Data Scientist, Analyst, Engineer)
 - 💬 Ask me about anything
 - 📫 How to reach me: 
@@ -32,7 +32,7 @@
 ## ⚙ Latest Projects
 | Projects | Description |
 | ----------- | ----------- |
-| [Kaix - AI Tech Talent Development App ](https://github.com/Haniff-Toha/kaix-ai-tech-talent-dev) | Indonesia's AI tech Talent Development App for stundents or individuals who want to keep up with tech's update |
+| [Kaix - AI Tech Talent Development App ](https://github.com/Haniff-Toha/kaix-ai-tech-talent-dev) | Indonesia's AI tech Talent Development App for stundents or individuals who want to keep up with tech skill's update |
 | [EShoppay - E-Commerce Business Application Springrest ](https://github.com/Haniff-Toha/challenge_codeID_MH) | Back-end Engineer Bootcamp Project for E-Commerce and HR-Payroll business application |
 | [Brain MRI Alzheimer Classification ](https://github.com/Haniff-Toha/DataScience_Portofolio/tree/main/Alzheimer_Disease_Brain_MRI_Image_Classification) | Develop Machine Learning Pipelines and Web app to predict Alzheimer disease based on Brain MRI Imgaes |
 | [Heart Disease Prediction - MLOps](https://github.com/Haniff-Toha/DataScience_Portofolio/tree/main/Heart%20Disease%20Prediction%20-%20MLOps) | Develop Machine Learning Pipelines to predict heart disease based on patient records |
